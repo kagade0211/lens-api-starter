@@ -1,4 +1,5 @@
-import { Html, Head, Main, NextScript } from "next/document";
+gitimport { Html, Head, Main, NextScript } from "next/document";
+// just fun
 
 export default function Document() {
   return (
